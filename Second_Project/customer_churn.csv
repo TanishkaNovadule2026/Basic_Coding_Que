@@ -1,0 +1,11 @@
+CustomerID,Gender,Tenure,MonthlyCharges,TotalCharges,Contract,InternetService,PaymentMethod,Churn
+C001,Male,12,70,840,Month-to-month,Fiber optic,Credit card,Yes
+C002,Female,24,60,1440,One year,DSL,Bank transfer,No
+C003,Male,5,80,400,Month-to-month,Fiber optic,Electronic check,Yes
+C004,Female,36,55,1980,Two year,DSL,Credit card,No
+C005,Male,8,75,600,Month-to-month,Fiber optic,Electronic check,Yes
+C006,Female,48,50,2400,Two year,DSL,Bank transfer,No
+C007,Male,15,65,975,One year,Fiber optic,Credit card,No
+C008,Female,3,85,255,Month-to-month,Fiber optic,Electronic check,Yes
+C009,Male,60,45,2700,Two year,DSL,Bank transfer,No
+C010,Female,10,78,780,Month-to-month,Fiber optic,Electronic check,Yes
